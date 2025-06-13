@@ -16,6 +16,13 @@
 - 👨‍🏫 Teaching Assistant for Computer Programming, Data Structures & Algorithms   
 <!-- - 🎉 Campus Life Council Coordinator—organized 10+ major events   -->
 
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priet-ukani&show_icons=true&theme=dark&hide_border=true" alt="Priet's GitHub stats" /><br/>
+  <img src="https://komarev.com/ghpvc/?username=priet-ukani&style=for-the-badge&color=brightgreen" alt="Profile views" />
+</p>
 ---
 
 ## 🏆 Achievements
@@ -93,12 +100,6 @@ _B.Tech + M.S. in CSE_ • Oct 2022 – Present
 - 🧑‍💻 [Codeforces](https://codeforces.com/profile/prietukani)  
 - 🍽️ [CodeChef](https://www.codechef.com/users/prietukani)  
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priet-ukani&show_icons=true&theme=dark&hide_border=true" alt="Priet's GitHub stats" /><br/>
-  <img src="https://komarev.com/ghpvc/?username=priet-ukani&style=for-the-badge&color=brightgreen" alt="Profile views" />
-</p>
 
 
 <p align="center">
