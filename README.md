@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/priet-ukani/priet-ukani/raw/main/assets/banner.svg" alt="banner" />
-</p>
+<img src="https://loading.io/spinners/double-ring/lg.curve-bars-loading-indicator.gif" 
+     alt="Loading Views" width="180" />
 
 <h1 align="center">👋 Hi, I’m Priet Ukani</h1>
 <p align="center">
@@ -14,8 +13,8 @@
 - 🏫 Currently pursuing **B.Tech + M.S. in CSE** at IIIT Hyderabad (CGPA: 9.14/10)  
 - 🎓 Dean’s List (Top 5% of batch)  
 - 💻 Passionate about distributed systems, machine learning, and full‑stack development  
-- 👨‍🏫 Teaching Assistant for Data Structures & Algorithms (700+ students)  
-- 🎉 Campus Life Council Coordinator—organized 10+ major events  
+- 👨‍🏫 Teaching Assistant for Computer Programming, Data Structures & Algorithms   
+<!-- - 🎉 Campus Life Council Coordinator—organized 10+ major events   -->
 
 ---
 
@@ -24,8 +23,6 @@
 - 🥇 **Codeforces Expert (1774)** & Top‑500 in India  
 - ⭐ **CodeChef 5★ (2059)** & Global Rank 16, 35 in Starters 167 & 170  
 - 🔥 Meta Hacker Cup 2023 Round 2 (Top 5%)  
-- 🎓 JEE Mains: Top 0.5% (1M+ candidates)  
-- 💡 Qualified KVPY SX, IOQM, NSEJS  
 
 ---
 
@@ -96,16 +93,13 @@ _B.Tech + M.S. in CSE_ • Oct 2022 – Present
 - 🧑‍💻 [Codeforces](https://codeforces.com/profile/prietukani)  
 - 🍽️ [CodeChef](https://www.codechef.com/users/prietukani)  
 
----
-
-## 📈 GitHub Stats & Profile Views
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priet-ukani&show_icons=true&theme=dark&hide_border=true" alt="Priet's GitHub stats" /><br/>
-  <img src="https://komarev.com/ghpvc/?username=priet-ukani" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=priet-ukani&style=for-the-badge&color=brightgreen" alt="Profile views" />
 </p>
 
----
 
 <p align="center">
   Made with ❤️ by Priet Ukani  
